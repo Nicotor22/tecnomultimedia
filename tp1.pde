@@ -105,7 +105,7 @@ void draw(){
     text("Elia Serna",posx-150,posy+225);
     image(aldeano,posx-400,posy+200,50,50);
     
-    text("vendedor ambulante",posx-600,posy+300);
+    text("vendedor\n"+ "ambulante",posx-600,posy+280);
     text("Tomas Marti",posx-150,posy+300);
     image(aldeano,posx-400,posy+280,50,50);
     
